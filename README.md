@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/51081461/88570803-4fa3f280-d05a-11ea-89af-59da30f6bd79.png)
-![ezgif com-gif-maker(3)](https://user-images.githubusercontent.com/51081461/88592496-bd144b00-d07b-11ea-897e-c3e9a8fe1320.gif)
+
 ### Heyyo 👋
+![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/51081461/88593312-f8fbe000-d07c-11ea-89d6-63ef77905417.gif)
 #### I am just a number junkie guy who believes one day we can can do everything with just data and our phones
 - :open_book: Currently studying data science at Wilfrid laurier Univeristy
 - :briefcase: **working on virtual internships with deloitte**
