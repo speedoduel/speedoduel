@@ -2,7 +2,7 @@
 ### Hi there 👋
 #### I am just a number junkie guy who believes one day we can can do everything with just data and our phones
 - :open_book: Currently studying data science at Wilfrid laurier Univeristy
-- :briefcase: **worked on virtual internships with deloitte, General electric and KPMG**
+- :briefcase: **working on virtual internships with deloitte**
 - 🔭 I’m currently working on a covid 19 dataset trying to improve and enhance it bit by bit while learning more things everyday
 - 🌱 I’m currently learning cooking, making better videos, and understanding Matlab
 - 🤔 I’m highly interested in Linux cmd, Deep learning, Spark and ML
