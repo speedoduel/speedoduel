@@ -9,9 +9,12 @@
 - 💬 Ask me about cars, youtube, mobiles, Android, Data, travelling, memes, Python, R
 - 📫 How to reach me: telegram or whatsapp me at +1-519-722-4725 :iphone:
 - 😄 Pronouns: Ron/Ronnie
+
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/51081461/88572106-43209980-d05c-11ea-9739-f29af2b5bdef.gif)
 
 - ⚡ Fun fact:
+  - :book: avid book reader
+  - :pen: fluent in English,Hindi and Sanskrit
   - :electron: :desktop_computer: Massive team red __(AMD)__ supporter
   - :trollface: I can makes memes on almost anything
   - :camera: I absolutely love travelling and photography
