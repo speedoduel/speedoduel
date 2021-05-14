@@ -4,20 +4,20 @@
 ![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/51081461/88593312-f8fbe000-d07c-11ea-89d6-63ef77905417.gif)
 #### I am just a number junkie guy who believes one day we can can do everything with just data and our phones
 - :open_book: Currently studying data science at Wilfrid laurier Univeristy
-- :briefcase: **working on virtual internships with deloitte*, KPMG, GE and Quantium*
+- :briefcase: **wored on virtual internships with Deloitte*, KPMG, GE and Quantium and Goldman Sachs*
 - 🔭 I’m currently working on a covid 19 dataset trying to improve and enhance it bit by bit while learning more things everyday
 - 🌱 I’m currently learning cooking, making better videos, and understanding Matlab
 - 🤔 I’m highly interested in Linux cmd, Deep learning, Spark and ML
 - 💬 Ask me about cars, youtube, mobiles, Android, Data, travelling, memes, Python, R
 - 📫 How to reach me: telegram or whatsapp me at +1-519-722-4725 :iphone:
-- 😄 Pronouns: Ron/Ronnie
+
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/51081461/88572106-43209980-d05c-11ea-9739-f29af2b5bdef.gif)
 
 - ⚡ Fun fact:
   - :book: avid book reader
   - :pen: fluent in English,Hindi and Sanskrit
-  - :electron: :desktop_computer: Massive team red __(AMD)__ supporter
+  - :electron: :desktop_computer: Massive ARM(open source) supporter
   - :trollface: I can makes memes on almost anything
   - :camera: I absolutely love travelling and photography
   - :movie_camera: I have a cute little travelling youtube channel
