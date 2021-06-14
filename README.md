@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning cooking, making better videos, and understanding Matlab
 - 🤔 I’m highly interested in Linux cmd, Deep learning, Spark and ML
 - 💬 Ask me about cars, youtube, mobiles, Android, Data, travelling, memes, Python, R
-- 📫 How to reach me: telegram or whatsapp me at +1-519-722-4725 :iphone:
+- 📫 How to reach me: telegram or whatsapp me at +1-519-715-8944 :iphone:
 
 [Here's My Website](https://sites.google.com/view/speedoduel/home)
 
