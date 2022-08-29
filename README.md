@@ -25,8 +25,6 @@
   
   - :dvd: I love old hip hop synth and 8bit music and lots thriller tv series and movies
 ![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/51081461/88572072-38660480-d05c-11ea-8fb5-8f4b5e808df7.gif)
-## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=speedoduel)
 
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
