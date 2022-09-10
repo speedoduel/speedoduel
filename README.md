@@ -30,8 +30,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=speedoduel)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/speedoduel)
+
 
 
 
