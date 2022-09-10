@@ -1,6 +1,6 @@
 
 
-### Heyyo welcome to my data lab 👋
+# Heyyo welcome to my data lab 👋
 ## -> -> [Here's a link to my Website](https://sites.google.com/view/speedoduel/home) <- <-
 ![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/51081461/88593312-f8fbe000-d07c-11ea-89d6-63ef77905417.gif)
 #### I am just a number junkie guy who believes one day we can can do everything with just data and our phones
