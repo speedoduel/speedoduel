@@ -7,7 +7,7 @@
 - :open_book: Currently studying data science at Wilfrid laurier Univeristy
 - :briefcase: **worked on virtual internships with Deloitte*, KPMG, GE and Quantium and Goldman Sachs* and *Square Enix*
 - 🔭 I’m currently working on a covid 19 dataset trying to improve and enhance it bit by bit while learning more things everyday
-- 🌱 I’m currently learning cooking, making better videos, and understanding Matlab
+- 🌱 I’m currently learning cooking, data science and ML concepts.
 - 🤔 I’m highly interested in Linux cmd, Deep learning, Spark and ML
 - 💬 Ask me about cars, youtube, mobiles, Android, Data, travelling, memes, Python, R
 - 📫 How to reach me: telegram or whatsapp me at +1-519-778-83065:iphone:
@@ -19,7 +19,7 @@
 - ⚡ Fun facts about me:
   - :book: avid book reader
   - :pen: fluent in English,Hindi and Sanskrit
-  - :electron: :desktop_computer: Massive ARM(open source) supporter
+  - :electron: :desktop_computer: Average ARM ethusiast
   - :trollface: I can makes memes on almost anything
   - :camera: I absolutely love travelling and photography
   - :movie_camera: I have a cute little travelling [youtube channel](https://www.youtube.com/channel/UCxdi_-jSimYqHe6zW1IBgfw?view_as=subscriber)
